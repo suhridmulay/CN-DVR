@@ -2,4 +2,4 @@
 
 
 ## Objective
-Simulate a Distance Vector Routing protocol between speciied number of routers
+Simulate a Distance Vector Routing protocol in a specified topology of routers
